@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b4b62607.css",
-    "main.js": "/static/js/main.b9ab23ea.js",
+    "main.js": "/static/js/main.8a701b24.js",
     "static/media/header.png": "/static/media/header.f5c0d35275233e7b01d4.png",
     "static/media/picture.jpeg": "/static/media/picture.114f35247c091f806ab0.jpeg",
     "static/media/Yajur Vashisht.pdf": "/static/media/Yajur Vashisht.59e91478322eb28d1e96.pdf",
     "static/media/About.jpg": "/static/media/About.969caa1dfc57040dad96.jpg",
     "index.html": "/index.html",
     "main.b4b62607.css.map": "/static/css/main.b4b62607.css.map",
-    "main.b9ab23ea.js.map": "/static/js/main.b9ab23ea.js.map"
+    "main.8a701b24.js.map": "/static/js/main.8a701b24.js.map"
   },
   "entrypoints": [
     "static/css/main.b4b62607.css",
-    "static/js/main.b9ab23ea.js"
+    "static/js/main.8a701b24.js"
   ]
 }
